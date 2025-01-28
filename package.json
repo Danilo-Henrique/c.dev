@@ -1,0 +1,16 @@
+{
+  "name": "devnews",
+  "version": "1.0.0",
+  "description": "repositório dedicado aos aprendizados do curso.dev",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^15.1.3",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
